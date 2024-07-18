@@ -6,8 +6,8 @@ This project presents a real-time **Face Recognition System** using deep learnin
 **Methodology**
 This approach leverages the power of Siamese Networks with triplet loss. The model is trained on a diverse dataset of celebrity faces, which includes varying poses, expressions, and lighting conditions.
 
-Face Detection: Utilizes the MediaPipe framework for real-time face detection.
-Facial Recognition: Employs the trained Siamese network model for recognizing faces.
+**Face Detection:** Utilizes the MediaPipe framework for real-time face detection.
+**Facial Recognition:** Employs the trained Siamese network model for recognizing faces.
 
 **Key Features**
 High accuracy in recognizing known individuals(84.5% accuracy). 
